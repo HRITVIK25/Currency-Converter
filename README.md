@@ -1,6 +1,6 @@
 Currency Converter 
 
-Created this project to practice asynchrous JS and API calls
+Created this project to practice asynchronous JS and API calls
 
 Key Functionalities:
 1) Real-time exchange rates: Fetches up-to-date conversion rates from an API.
